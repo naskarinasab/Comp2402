@@ -5,7 +5,7 @@ Abstract Data Types/Algorithms taught by Pat Morin at Carleton University.
 <ul>
   <li>
     <h2>Assignment 1</h2>
-    <small>These questions involve choosing the right abstraction (Collection, Set, List, Queue, Deque, SortedSet, Map, or SortedMap) to efficiently accomplish the task at hand. The best way to do these is to read the question and then think about what type of Collection is best to use to solve it. There are only a few lines of code you need to write to solve each of them.
+    <small>These questions involve choosing the right abstraction (Collection, Set, List, Queue, Deque, SortedSet, Map, or SortedMap) to efficiently accomplish the task at hand.
       <ul>
       <small>Note: File Part10.java is incomplete</small>
       </ul>
@@ -23,7 +23,7 @@ Abstract Data Types/Algorithms taught by Pat Morin at Carleton University.
   </li>
     <li>
     <h2>Assignment 4</h2>
-    <small>These assignments looks at the different ways of drawing trees. The first part is inorderDraw, which assigns x coordinates to nodes so that each node gets a distinct x-coordinate, and each node receives an x-coordinate between that of its two children. The second part is leftistDraw(): which assigns x coordinates to nodes so that each node receives the minimum x-coordinate it can without overlapping nodes on its own level. The last and final part is balancedDraw() which does not preserve the ordering of left and right children. Instead, it computes the sizes of the two subtrees of the root. The smaller of the two is drawn directly below the root. The larger of the two is drawn directly to the right of the root, but far enough away that it doesn't intersect the drawing at the root. 
+    <small>This assignment looks at the different ways of drawing trees. The first part is inorderDraw, which assigns x coordinates to nodes so that each node gets a distinct x-coordinate, and each node receives an x-coordinate between that of its two children. The second part is leftistDraw(): which assigns x coordinates to nodes so that each node receives the minimum x-coordinate it can without overlapping nodes on its own level. The last and final part is balancedDraw() which does not preserve the ordering of left and right children. Instead, it computes the sizes of the two subtrees of the root. The smaller of the two is drawn directly below the root. The larger of the two is drawn directly to the right of the root, but far enough away that it doesn't intersect the drawing at the root. 
     </small>
   </li>
     <li>
